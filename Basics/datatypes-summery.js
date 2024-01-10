@@ -46,3 +46,29 @@ const myFunction = function(){
 }
 
 //assignment: write data types
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive), Heap (Non-Primitive)
+
+let myYoutubename = "TechnoGammmerz.in"
+
+let anothername = myYoutubename
+anothername = "chai aur code"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let user1 = {
+    email: "user@google.omc",
+    Upi: "user@YBL",
+}
+
+let userTwo = user1
+
+userTwo.email = "lalu@gmail.com"
+
+console.log(user1.email);
+console.log(userTwo.email);
