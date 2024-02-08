@@ -13,7 +13,7 @@ let accountState;
 accountEmail = "github@support.com";
 accountPassword ="69";
 accountCity = "Delhi";
-console.log(accountID); 
+console.log(accountID);
 
 /* Prefer no to use var 
 because of issues with the block

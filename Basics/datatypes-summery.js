@@ -2,7 +2,7 @@
 /*
 7 types: 
     1 String
-    2 Number
+    2 Numbr
     3 Boolean
     4 Null
     5 Undefined
@@ -12,7 +12,6 @@
 
 const score = 100
 const scoreValue = 100.3
-
 const isLoggedIn = false
 const currentTem = null
 // let userEmail = undefined 
@@ -52,13 +51,13 @@ const myFunction = function(){
 
 // Stack(Primitive), Heap (Non-Primitive)
 
-let myYoutubename = "TechnoGammmerz.in"
+let myYoutubeName = "TechnoGamerz.in"
 
-let anothername = myYoutubename
-anothername = "chai aur code"
+let anotherName = myYoutubeName
+anotherName = "chai aur code"
 
-console.log(myYoutubename);
-console.log(anothername);
+console.log(myYoutubeName);
+console.log(anotherName);
 
 
 let user1 = {
